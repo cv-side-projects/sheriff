@@ -96,9 +96,9 @@ L'utilisateur **peut** créer une *Ligue* avec un groupe fixé d'amis. Il est *A
 
 L'*Administrateur* d'une *Ligue* **peut** créer une *Saison* en définissant un nombre de *Parties* à réaliser. Une fois les *Parties* réalisées, les statistiques d'une *Saison* sont accessibles aux participants.
 
-L'*Administrateur d'une *Ligue* **peut** supprimer une *Saison* en cours.
+L'*Administrateur* d'une *Ligue* **peut** supprimer une *Saison* en cours.
 
-L'*Administrateur d'une *Ligue* **peut** supprimer une *Ligue* en cours.
+L'*Administrateur* d'une *Ligue* **peut** supprimer une *Ligue* en cours.
 
 ## 5. La charte graphique
 
