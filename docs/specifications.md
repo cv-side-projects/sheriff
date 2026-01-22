@@ -58,7 +58,7 @@ L'utilisateur **peut** ajouter des amis via une interface *Amis*.
 
 L'utilisateur **peut** chercher d'autres utilisateurs via leur pseudo dans une interface *Recherche*.
 
-L'utilisateur **peut** chercher parmis ses amis un autre utilisateur via une interface *Amis*.
+L'utilisateur **peut** chercher parmi ses amis un autre utilisateur via une interface *Amis*.
 
 L'utilisateur **peut** supprimer des amis via une interface *Amis*.
 
