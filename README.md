@@ -1,2 +1,0 @@
-# sheriff
-Shérif de Nottingham
